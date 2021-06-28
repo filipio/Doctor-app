@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>styles/styles.css</file>
+        <file>images/man.png</file>
+        <file>images/woman.png</file>
+    </qresource>
+</RCC>
